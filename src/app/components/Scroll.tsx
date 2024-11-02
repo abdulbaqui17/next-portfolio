@@ -10,11 +10,14 @@ export function HeroScrollDemo() {
       <ContainerScroll
         titleComponent={
           <>
-            <h1 className="text-4xl font-semibold dark:text-white">
+            <h1 className="text-4xl font-semibold  bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50">
               Abdul Baqui <br />
-              <span className="text-4xl md:text-[6rem] font-bold mt-1 leading-none dark:text-white">
+              <span className="text-4xl md:text-[6rem] font-bold mt-1 leading-none  bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50">
                 Software Developer
               </span>
+              <p className="mt-5 font-normal text-lg text-neutral-300 max-w-lg text-center mx-auto">
+        Hi, I’m Abdul Baqui, a Software Developer. I create functional and user-friendly web applications with a focus on clean design and performance.</p>
+       
             </h1>
           </>
         }
