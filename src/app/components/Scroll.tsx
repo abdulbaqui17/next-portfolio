@@ -16,8 +16,7 @@ export function HeroScrollDemo() {
                 Software Developer
               </span>
               <p className="mt-5 font-normal text-lg text-neutral-300 max-w-lg text-center mx-auto">
-        Hi, I’m Abdul Baqui, a Software Developer. I create functional and user-friendly web applications with a focus on clean design and performance.</p>
-       
+                Hi, I’m Abdul Baqui, a Software Developer. I create functional and user-friendly web applications with a focus on clean design and performance.</p>
             </h1>
           </>
         }
